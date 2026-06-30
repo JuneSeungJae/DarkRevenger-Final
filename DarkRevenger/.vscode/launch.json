@@ -1,0 +1,14 @@
+{
+    "": [
+        {
+            "": "requestattach"
+        }
+    ],
+    "configurations": [
+        {
+            "name": "Attach to Unity",
+            "type": "vstuc",
+            "request": "attach"
+        }
+    ]
+}
