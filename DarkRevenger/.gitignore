@@ -94,3 +94,28 @@ VisualStudioCode Patch
 Ignore all local history of files
 .history
 .ionide
+
+# 유니티가 생성하는 에셋 메타 및 데이터 파일 제외
+*.asset
+*.prefab
+*.mat
+*.anim
+*.controller
+*.unity
+
+# 3D 모델 및 그래픽 에셋 제외
+*.fbx
+*.obj
+*.max
+*.blend
+*.png
+*.jpg
+*.jpeg
+*.tga
+*.psd
+
+# 오디오 에셋 제외
+*.mp3
+*.wav
+*.ogg
+*.flac
