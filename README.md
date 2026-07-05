@@ -24,7 +24,9 @@
 * **체크포인트 시스템**: 사망 시 별도의 저장 없이 해당 지역 시작점이나 보스전 직전의 체크포인트로 돌아갑니다.
 * **UI 및 편의 기능**: 일시정지, 옵션 메뉴, 사용자 편의를 위한 키 재설정 기능을 지원합니다.
 
-<img width="338" height="195" alt="image" src="https://github.com/user-attachments/assets/fbf28220-cbbd-4735-9fd5-ca5b63260c07" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fbf28220-cbbd-4735-9fd5-ca5b63260c07" alt="Dark Revenger Main Title" width="500">
+</p>
 
 ---
 
@@ -35,10 +37,7 @@
 
 | 챕터 1 (구동현 담당) | 챕터 2 (박민준 담당) | 챕터 3 (전승재 담당) |
 | :---: | :---: | :---: |
-| <img width="344" height="195" alt="image" src="https://github.com/user-attachments/assets/20e3a880-ce10-47bc-a6f9-3b079bb4d589" />
-| <img width="341" height="193" alt="image" src="https://github.com/user-attachments/assets/499924f3-10ae-464a-9119-c1ade0778cf5" />
-| <img width="345" height="193" alt="image" src="https://github.com/user-attachments/assets/5199d5b3-da82-433d-b283-e49a3cc775c9" />
-|
+| <img src="https://github.com/user-attachments/assets/20e3a880-ce10-47bc-a6f9-3b079bb4d589" width="230" height="130"> | <img src="https://github.com/user-attachments/assets/499924f3-10ae-464a-9119-c1ade0778cf5" width="230" height="130"> | <img src="https://github.com/user-attachments/assets/5199d5b3-da82-433d-b283-e49a3cc775c9" width="230" height="130"> |
 | 숲 및 동굴 테마 디자인 | 성 및 감옥 내부 UI 디자인 | 최종 보스 방 및 플레이어 액션 |
 
 ---
